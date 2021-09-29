@@ -1,9 +1,8 @@
 .preview {
   min-height: 100%;
   background-color: var(--grey-2);
-  /* background-color: red; */
   flex: 1 1 auto;
-  height: 1036px;
+  /* height: 1036px; */
 }
 
 .preview__container {
@@ -14,9 +13,9 @@
 
 .preview__cardholder {
   padding-top: 68px;
-  min-height: 100%;
-  max-width: 1110px;
-  margin: 0px auto;
+  /* min-height: 100%; */
+  /* max-width: 1110px; */
+  /* margin: 0px auto; */
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;

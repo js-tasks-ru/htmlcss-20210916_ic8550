@@ -9,9 +9,9 @@
   margin: 0px auto;
 }
 
-.footer__header {
+.footer__heading {
   min-height: 100%;
-  width: 111px;
+  /* width: 111px; */
   height: 48;
   margin: 0 auto;
   text-align: center;
@@ -25,11 +25,11 @@
 
   /* Black */
 
-  color: #212429;
+  color: var(--black);
 }
 
 .footer__description {
-  width: 640px;
+  /* width: 640px; */
   height: 96;
   margin: 0 auto;
   padding-top: 32px;
@@ -45,5 +45,5 @@
 
   /* Black */
 
-  color: #212429;
+  color: var(--black);
 }
