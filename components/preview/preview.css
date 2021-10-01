@@ -1,0 +1,27 @@
+.preview {
+  /* min-height: 100%; */
+  background-color: var(--grey-2);
+  flex: 1 1 auto;
+  /* height: 1036px; */
+}
+
+.preview__container {
+  min-height: 100%;
+  max-width: 1110px;
+  margin: 0px auto;
+}
+
+.preview__cardholder {
+  padding-top: 68px;
+  /* min-height: 100%; */
+  /* max-width: 1110px; */
+  /* margin: 0px auto; */
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex: 0 0 auto;
+}
+
+.preview__card {
+  margin-bottom: 30px;
+}

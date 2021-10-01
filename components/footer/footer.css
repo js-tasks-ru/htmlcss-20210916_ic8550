@@ -1,0 +1,49 @@
+.footer {
+  background-color: var(--grey-1);
+  height: 384px;
+}
+
+.footer__container {
+  min-height: 100%;
+  max-width: 1110px;
+  margin: 0px auto;
+}
+
+.footer__heading {
+  min-height: 100%;
+  /* width: 111px; */
+  /* height: 48px; */
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 71px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 38px;
+  line-height: 48px;
+  /* identical to box height, or 126% */
+
+  /* Black */
+
+  color: var(--black);
+}
+
+.footer__description {
+  /* width: 640px; */
+  /* height: 96px; */
+  margin: 0 auto;
+  padding-top: 32px;
+  text-align: center;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  text-align: center;
+
+  /* Black */
+
+  color: var(--black);
+}

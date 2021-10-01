@@ -1,0 +1,19 @@
+.header {
+  /* height: 237px; */
+  background-color: var(--grey-1);
+}
+
+.header__container {
+  /* min-height: 100%; */
+  max-width: 1110px;
+  margin: 0px auto;
+}
+
+.header__description {
+  padding-top: 96px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 64px;
+}
